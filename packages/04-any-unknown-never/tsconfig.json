@@ -4,14 +4,15 @@
     "target": "ES2018",
     "module": "commonjs",
     "lib": ["esnext", "dom"],
-    "rootDir": "src",
+    "rootDir": "./src",
     "outDir": "dist",
     "baseUrl": "./",
     "esModuleInterop": true,
     "skipLibCheck": true,
     "declaration": true,
     "emitDecoratorMetadata": true,
-    "experimentalDecorators": true
+    "experimentalDecorators": true,
+    "noImplicitAny": true,
   },
-  "include": ["src"]
+  "include": ["./src"]
 }

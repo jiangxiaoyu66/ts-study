@@ -1,3 +1,5 @@
+// 阅读 object-Object-{}.md，讲得不错
+
 const tmp1: Object = undefined;
 const tmp2: Object = null;
 const tmp3: Object = void 0;

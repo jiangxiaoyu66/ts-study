@@ -9,5 +9,11 @@
     "dev": "tsnd --respawn --transpile-only src/index.ts",
     "watch": "tsc --watch",
     "check": "tsc --noEmit"
+  },
+  "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^5.48.2",
+    "@typescript-eslint/parser": "^5.48.2",
+    "eslint": "^8.32.0",
+    "typescript": "^4.9.4"
   }
 }

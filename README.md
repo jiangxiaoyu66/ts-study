@@ -1,3 +1,32 @@
+# 课程目录
+
+类型基础:
+packages/01-primitive-and-object： 3.进入类型的世界：理解原始类型与对象类型
+packages/02-literal-and-enum：
+packages/03-function-and-class
+packages/04-any-unknown-never
+packages/05_1-internal-type-tools
+packages/05_2-internal-type-tools
+packages/06-generic-types
+packages/07-structual-type-system
+packages/08-type-levels
+packages/09-conditional-types
+packages/10-builtin-tool-type
+packages/11-contextual-typing
+packages/12-covariance-and-contravariance
+packages/13-advanced-builtin-tool-types
+
+
+
+![](assets/20230129_100230_image.png)
+
+
+把类型基础,类型工具,实战演练吃掉就可以了
+
+然后在公司项目中去用。一定要多用多用多用！！！
+
+
+
 # TypeScript-Tiny-Book
 
 掘金小册「TypeScript 全面进阶指南」示例代码，余杭区最好的 TypeScript 教程！

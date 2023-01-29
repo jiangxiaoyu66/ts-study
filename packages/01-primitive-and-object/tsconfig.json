@@ -3,7 +3,7 @@
   "compilerOptions": {
     "target": "ES2020",
     "module": "commonjs",
-    "lib": ["esnext"],
+    "lib": ["esnext","DOM"],
     "rootDir": "src",
     "outDir": "dist",
     "baseUrl": "./",
@@ -13,7 +13,7 @@
     "emitDecoratorMetadata": true,
     "experimentalDecorators": true,
     "strictNullChecks": false,
-    "noImplicitAny": false,
+    "noImplicitAny": false,  // 翻译： 没有隐形的any。使用之后对隐形类型为any的统一标记错误
     "isolatedModules": false
   },
   "include": ["src"]
